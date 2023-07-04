@@ -18,7 +18,7 @@ export const FormTitle = () => {
 
             <Title
                 level={5}
-                style={{ fontFamily: 'sans-serif' }}
+                style={{ fontFamily: 'sans-serif', textAlign: 'center' }}
             >
                 ROSHEN DENTAL LAB CUSTOMER PORTAL
             </Title>
